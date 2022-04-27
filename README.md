@@ -58,7 +58,7 @@ quote
 <img src="https://raw.githubusercontent.com/TheShiningBoots/Quoteair/master/.github/images/rainbow.png"/><br><br><br>
 
 ## Contributing
-Contribution are very significant and are really welcome, to contribute you may open a pull request and get it merged with the main branch, depending on what type of changes you are making you must include it in the pull request, common topics may include but are not limited to ``addition of new quotes`` and ``optimizations``. To learn more about each please read [Contributing.md](https://github.com/TheShiningBoots/Quoteair/tree/master/.github/Contributing.md)
+Contribution are very significant and are really welcome, to contribute you may open a pull request and get it merged with the main branch, depending on what type of changes you are making you must include it in the pull request, common topics may include but are not limited to ``addition of new quotes`` and ``optimizations``. To learn more about each please read [Contributing.md](https://github.com/TheShiningBoots/Quoteair/tree/master/.github/CONTRIBUTING.md)
 <img src="https://raw.githubusercontent.com/TheShiningBoots/Quoteair/master/.github/images/rainbow.png"/><br><br><br>
 
 ## Credits
