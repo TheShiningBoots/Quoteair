@@ -1,6 +1,6 @@
 {
   "name": "quoteair",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An awesome quotes package which support various features.",
   "main": "src/quoteair.js",
   "repository": {
