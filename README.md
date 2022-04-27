@@ -4,15 +4,22 @@
 <img src="https://raw.githubusercontent.com/TheShiningBoots/Quoteair/master/.github/images/rainbow.png"/>
 
 
+- [What is? and Why?](#what-is-and-why)
 - [Intstallation](#intstallation)
 - [Usage](#usage)
-- [getRandomQuite()](#getrandomquote)
+- [getRandomQuote()](#getrandomquote)
 - [getRandomQuote(false)](#getrandomquotefalse)
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
   
 <img src="https://raw.githubusercontent.com/TheShiningBoots/Quoteair/master/.github/images/rainbow.png"/><br><br><br>
+
+## What is? and Why?
+Quoteair is a free to use npm package developed by '[TheShiningBoots](https://github.com/TheShiningBoots)' it aims at providing a HUGE library of quotes, currently at 2700+, to be used in APIs or Appications.
+
+<img src="https://raw.githubusercontent.com/TheShiningBoots/Quoteair/master/.github/images/rainbow.png"/><br><br><br>
+
 ## Intstallation
 
 **Quoteair** can be installed through the npm registry via the following command <br>
@@ -40,7 +47,7 @@ For more information regarding the above visit [npm's official documentation](ht
 </div><br><br>
 <img src="https://raw.githubusercontent.com/TheShiningBoots/Quoteair/master/.github/images/rainbow.png"/><br><br><br>
 
-## getRandomQoute()
+## getRandomQuote()
 Outputs the quote and author as a json format
 ```
 {
@@ -67,18 +74,6 @@ This project has only been possible through the help of various open-source proj
 
 ## License
 The license file of the software can be found in the root directory its the GPL-3 License.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
