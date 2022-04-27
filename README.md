@@ -62,7 +62,7 @@ Contribution are very significant and are really welcome, to contribute you may 
 <img src="https://raw.githubusercontent.com/TheShiningBoots/Quoteair/master/.github/images/rainbow.png"/><br><br><br>
 
 ## Credits
-This project has only been possible through the help of various open-source projects though it would beimpossible for me to list them all, most of them were found using the `quotes and the quotes-api` tags on github.
+This project has only been possible through the help of various open-source projects though it would be impossible for me to list them all, most of them were found using the `quotes and the quotes-api` tags on github.
 <img src="https://raw.githubusercontent.com/TheShiningBoots/Quoteair/master/.github/images/rainbow.png"/><br><br><br>
 
 ## License

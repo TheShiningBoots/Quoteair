@@ -1,6 +1,6 @@
 {
   "name": "quoteair",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An awesome quotes package which support various features.",
   "main": "src/quoteair.js",
   "repository": {
@@ -15,7 +15,7 @@
     "inspiration"
   ],
   "author": "TheShiningBoots",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/theshiningboots/quoteair/issues"
   },
