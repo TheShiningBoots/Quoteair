@@ -6,8 +6,8 @@
 
 - [Intstallation](#intstallation)
 - [Usage](#usage)
-- [getRandomQoute()](#getrandomqoute)
-- [getRandomQoute(false)](#getrandomqoutefalse)
+- [getRandomQuite()](#getrandomquote)
+- [getRandomQuote(false)](#getrandomquotefalse)
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
@@ -41,7 +41,7 @@ For more information regarding the above visit [npm's official documentation](ht
 <img src="https://raw.githubusercontent.com/TheShiningBoots/Quoteair/master/.github/images/rainbow.png"/><br><br><br>
 
 ## getRandomQoute()
-Outputs the qoute and author as a json format
+Outputs the quote and author as a json format
 ```
 {
     'quote': 'A random quote',
@@ -50,10 +50,10 @@ Outputs the qoute and author as a json format
 ```
 <img src="https://raw.githubusercontent.com/TheShiningBoots/Quoteair/master/.github/images/rainbow.png"/><br><br><br>
 
-## getRandomQoute(false)
-Outputs the quote and no author as a plain text
+## getRandomQuote(false)
+Outputs the quote as plain text, ***Does not include the author*
 ```text
-The quote itself no author
+quote
 ```
 <img src="https://raw.githubusercontent.com/TheShiningBoots/Quoteair/master/.github/images/rainbow.png"/><br><br><br>
 
