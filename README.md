@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/TheShiningBoots/Quoteair/master/.github/images/rainbow.png"/><br><br><br>
 
 ## What is? and Why?
-Quoteair is a free to use npm package developed by '[TheShiningBoots](https://github.com/TheShiningBoots)' it aims at providing a HUGE library of quotes, currently at 2700+, to be used in APIs or Appications.
+Quoteair is a free to use npm package developed by '[TheShiningBoots](https://github.com/TheShiningBoots)' it aims at providing a HUGE library of quotes, currently at 3500+, to be used in APIs or Applications.
 
 <img src="https://raw.githubusercontent.com/TheShiningBoots/Quoteair/master/.github/images/rainbow.png"/><br><br><br>
 
@@ -26,7 +26,7 @@ Quoteair is a free to use npm package developed by '[TheShiningBoots](https://gi
 
 ``npm i quoteair``<br>
 
-The package can als be downloaded directly via github by adding the following line of code to your `dependencies` in your `package.json`
+The package can also be downloaded directly via github by adding the following line of code to your `dependencies` in your `package.json`
 
 ``"Quoteair": "TheShiningBoots/Quoteair"`` for example -
 ```json
@@ -41,10 +41,16 @@ For more information regarding the above visit [npm's official documentation](ht
 
 **Quoteair** can be used for various applications whether it be APIs or applications. An example has been given in the examples folder, that example is also given below.
 <br><br>
+```js
+const quoteair = require('quoteair');
 
-<div id="img" align="center">
-<img src="https://raw.githubusercontent.com/TheShiningBoots/Quoteair/master/.github/images/code.png" height="450"/>
-</div><br><br>
+// Outputs the quote with the author 
+console.log(quoteair.getRandomQuote())
+
+// Outputs the quote without the author
+console.log(quoteair.getRandomQuote(false))
+```
+<br><br>
 <img src="https://raw.githubusercontent.com/TheShiningBoots/Quoteair/master/.github/images/rainbow.png"/><br><br><br>
 
 ## getRandomQuote()
